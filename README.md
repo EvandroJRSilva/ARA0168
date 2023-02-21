@@ -36,74 +36,76 @@ Repositório para aulas e demais materiais da disciplina ARA0168 da Faculdade Es
 
 ## **Datas**
 
-Turma: 1001
+Turmas
+
+![](https://img.shields.io/badge/Sábado-1001-lightgrey)
 
 <br />
 
-Fevereivo
+**Fevereivo**
 
 | Seg | Ter | Qua | Qui | Sex | Sab |
 |---|---|---|---|---|---|
 | | | 01 | 02 | 03 | 04 |
 | 06 | 07 | 08 | 09 | 10 | 11 |
 | 13 | 14 | 15 | 16 | 17 | 18 |
-| <span style="color:cornflowerblue">20</span> | <span style="color:cornflowerblue">21</span> | <span style="color:cornflowerblue">22</span> | 23 | 24 | <span style="color:limegreen">25</span> |
+| ![20Fev](https://placehold.co/25/cornflowerblue/white?text=20) | ![21Fev](https://placehold.co/25/cornflowerblue/white?text=21) | ![22Fev](https://placehold.co/25/cornflowerblue/white?text=22) | 23 | 24 | ![25Fev](https://placehold.co/25/limegreen/white?text=25) |
 | 27 | 28 | | | | |
 
 <br />
 
-Março
+**Março**
 
 | Seg | Ter | Qua | Qui | Sex | Sab |
 |---|---|---|---|---|---|
-| | | 01 | 02 | 03 | <span style="color:limegreen">04</span> |
-| 06 | 07 | 08 | 09 | 10 | <span style="color:limegreen">11</span> |
-| 13 | 14 | 15 | 16 | 17 | <span style="color:limegreen">18</span> |
-| 20 | 21 | 22 | 23 | 24 | <span style="color:limegreen">25</span> |
+| | | 01 | 02 | 03 | ![04Mar](https://placehold.co/25/limegreen/white?text=04) |
+| 06 | 07 | 08 | 09 | 10 | ![11Mar](https://placehold.co/25/limegreen/white?text=11) |
+| 13 | 14 | 15 | 16 | 17 | ![18Mar](https://placehold.co/25/limegreen/white?text=18) |
+| 20 | 21 | 22 | 23 | 24 | ![25Mar](https://placehold.co/25/limegreen/white?text=25) |
 | 27 | 28 | 29 | 30 | 31 | |
 
 <br />
 
-Abril
+**Abril**
 
 | Seg | Ter | Qua | Qui | Sex | Sab |
 |---|---|---|---|---|---|
-| | | | | | <span style="color:limegreen">01</span> |
-| 03 | 04 | 05 | 06 | <span style="color:cornflowerblue">07</span> | <span style="color:cornflowerblue">08</span> |
-| 10 | 11 | 12 | 13 | 14 | <span style="color:limegreen">15</span> |
-| 17 | 18 | 19 | 20 | <span style="color:cornflowerblue">21</span> | <span style="color:limegreen">22</span> |
-| 24 | 25 | 26 | 27 | 28 | <span style="color:limegreen">29</span> |
+| | | | | | ![01Abr](https://placehold.co/25/limegreen/white?text=01) |
+| 03 | 04 | 05 | 06 | ![07Abr](https://placehold.co/25/cornflowerblue/white?text=07) | ![08Abr](https://placehold.co/25/cornflowerblue/white?text=08) |
+| 10 | 11 | 12 | 13 | 14 | ![15Abr](https://placehold.co/25/limegreen/white?text=15) |
+| 17 | 18 | 19 | 20 | ![21Abr](https://placehold.co/25/cornflowerblue/white?text=21) | ![22Abr](https://placehold.co/25/limegreen/white?text=22) |
+| 24 | 25 | 26 | 27 | 28 | ![29Abr](https://placehold.co/25/limegreen/white?text=29) |
 
 <br />
 
-Maio
+**Maio**
 
 | Seg | Ter | Qua | Qui | Sex | Sab |
 |---|---|---|---|---|---|
-| <span style="color:cornflowerblue">01</span> | 02 | 03 | 04 | 05 | <span style="color:limegreen">06</span> |
-| 08 | 09 | 10 | 11 | 12 | <span style="color:limegreen">13</span> |
-| 15 | 16 | 17 | 18 | 19 | <span style="color:limegreen">20</span> |
-| 22 | 23 | 24 | 25 | 26 | <span style="color:limegreen">27</span> |
+| ![01Mai](https://placehold.co/25/cornflowerblue/white?text=01) | 02 | 03 | 04 | 05 | ![06Mai](https://placehold.co/25/limegreen/white?text=06) |
+| 08 | 09 | 10 | 11 | 12 | ![13Mai](https://placehold.co/25/limegreen/white?text=13) |
+| 15 | 16 | 17 | 18 | 19 | ![20Mai](https://placehold.co/25/limegreen/white?text=20) |
+| 22 | 23 | 24 | 25 | 26 | ![27Mai](https://placehold.co/25/limegreen/white?text=27) |
 | 29 | 30 | 31 |    |    | |
 
 <br />
 
-Junho
+**Junho**
 
 | Seg | Ter | Qua | Qui | Sex | Sab |
 |---|---|---|---|---|---|
-| | | | 01 | 02 | <span style="color:limegreen">03</span> |
-| 05 | 06 | 07 | <span style="color:cornflowerblue">08</span> | <span style="color:cornflowerblue">09</span> | <span style="color:cornflowerblue">10</span> |
-| 12 | 13 | 14 | 15 | 16 | <span style="color:limegreen">17</span> |
-| 19 | 20 | 21 | 22 | 23 | <span style="color:limegreen">24</span> |
+| | | | 01 | 02 | ![03Jun](https://placehold.co/25/limegreen/white?text=03) |
+| 05 | 06 | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=21) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) | ![10Jun](https://placehold.co/25/cornflowerblue/white?text=10) |
+| 12 | 13 | 14 | 15 | 16 | ![17Jun](https://placehold.co/25/limegreen/white?text=17) |
+| 19 | 20 | 21 | 22 | 23 | ![24Jun](https://placehold.co/25/limegreen/white?text=24) |
 | 26 | 27 | 28 | 29 | 30 | |
 
 <br />
 
 *Legendas*
 
-<span style="color:limegreen">Aula</span>
-<span style="color:cornflowerblue">Feriado</span>
+![Aula](https://img.shields.io/badge/-Aula-limegreen?style=for-the-badge)
+![Feriado](https://img.shields.io/badge/-Feriado-cornflowerblue?style=for-the-badge)
 
 -----
 
@@ -121,30 +123,30 @@ Junho
 
 **Básica**
 
-FACELI, Katti. **Inteligência Artificial ­ Uma abordagem de aprendizado de máquina**. 2a Ed. Rio de Janeiro: LTC, 2021.
+FACELI, Katti. **Inteligência Artificial ­ Uma abordagem de aprendizado de máquina**. 2a Ed. Rio de Janeiro: LTC, 2021. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521637509/
 
-GOLDSCHMIDT, Ronaldo. **Data Mining ­ Conceitos, técnicas, algoritmos, orientações e aplicações**. Rio de Janeiro: Elsevier, 2015.
+GOLDSCHMIDT, Ronaldo. **Data Mining ­ Conceitos, técnicas, algoritmos, orientações e aplicações**. Rio de Janeiro: Elsevier, 2015. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/books/9788595156395/
 
-PEREIRA, Mariana Araújo; NEUMANN, Fabiano Berlink; MILANI, Alessandra M. Paz; et al. **Framework de Big Data**. Porto Alegre: SAGAH, 2019.
+PEREIRA, Mariana Araújo; NEUMANN, Fabiano Berlink; MILANI, Alessandra M. Paz; et al. **Framework de Big Data**. Porto Alegre: SAGAH, 2019. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/books/9786556900803/
 
 <br />
 
 **Complementar**
 
-BANIN, Sérgio Luiz. **Python 3 ­ Conceitos e Aplicações ­ Uma Abordagem Didática [BV:MB]**. São Paulo: Érica, 2018.
+BANIN, Sérgio Luiz. **Python 3 ­ Conceitos e Aplicações ­ Uma Abordagem Didática**. São Paulo: Érica, 2018. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/books/9788536530253/
 
-Batista, M.D. C. **[BV:MB]. Data Mining**. Porto Alegre: SAGAH, 2021.
+Batista, M.D. C. **Data Mining**. Porto Alegre: SAGAH, 2021. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900292/
 
-MORAIS, Izabelly. **Introdução a Big Data e Internet das Coisas (IOT) [BV:MB]**. Porto Alegre: SAGAH, 2018.
+MORAIS, Izabelly. **Introdução a Big Data e Internet das Coisas (IOT)**. Porto Alegre: SAGAH, 2018. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/books/9788595027640/
 
-MUELLER, John Paul. **Aprendizado Profundo para Leigos [BV:MB]**. Rio de Janeiro: Alta Books, 2020.
+MUELLER, John Paul. **Aprendizado Profundo para Leigos**. Rio de Janeiro: Alta Books, 2020. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/books/9788550816982/
 
-PERKOVIC, Ljubomir. **Introdução à Computação Usando Python ­ Um Foco no Desenvolvimento de Aplicações [BV:MB]**. 1a Ed. Rio de Janeiro: LTC, 2016.
+PERKOVIC, Ljubomir. **Introdução à Computação Usando Python ­ Um Foco no Desenvolvimento de Aplicações**. 1a Ed. Rio de Janeiro: LTC, 2016. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/books/9788521630937/
